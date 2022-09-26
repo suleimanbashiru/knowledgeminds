@@ -485,6 +485,7 @@ img {
           font-size: 30px; } }
   .hero-slides .owl-prev,
   .hero-slides .owl-next {
+    
     background: #61ba6d;
     background: -webkit-linear-gradient(to right, #61ba6d, #83c331);
     background: linear-gradient(to right, #61ba6d, #83c331);
@@ -1238,3 +1239,15 @@ img {
     font-size: 18px; }
 
 /*# sourceMappingURL=style.css.map */
+
+
+
+/* .owl-prev, .owl-next {
+  display: none;
+} */
+
+/* Custom */
+
+.palign {
+  text-align: left!important; 
+}
